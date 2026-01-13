@@ -5,6 +5,7 @@ This program asks the user for age and height (in inches), then uses conditional
 - Height must be 48 inches or taller
 
 Skills Learned:
+
 • Using cin and cout for user input and output
 
 • Declaring and using int variables
